@@ -9,3 +9,5 @@ In this repository we maintain the material for recap fridays at marr lab.
 - Session 3: Hand crafted features
 - Session 4: Gaussian processes
 - Session 5: Statistical testing
+- Session 6: Resampling methods
+- Session 7: How not to Benchmark
